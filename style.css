@@ -1,6 +1,7 @@
  body {
    background-color: #9549BB;
   font-family: Arial;
+  color: white;
 
 
  }
@@ -9,6 +10,10 @@ ul {
  padding: 20px;
 }
 .sobre:hover  {
-size: 20px;
+font-size: 20px;
+ 
+}
+.projetos:hover {
+ font-size: 20px;
  
 }
