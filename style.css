@@ -1,9 +1,14 @@
  body {
    background-color: #9549BB;
+  font-family: Arial;
 
 
  }
 ul {
  justify-content: space-between;
  padding: 20px;
+}
+.sobre:hover  {
+size: 20px;
+ 
 }
