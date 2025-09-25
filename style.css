@@ -1,5 +1,9 @@
  body {
-   background-color: #9549BB
+   background-color: #9549BB;
 
 
  }
+ul {
+ justify-content: space-between;
+ padding: 20px;
+}
