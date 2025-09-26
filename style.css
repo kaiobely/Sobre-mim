@@ -10,10 +10,13 @@ ul {
  padding: 20px;
 }
 .sobre:hover  {
+ color: white;
+
 font-size: 20px;
  
 }
 .projetos:hover {
+ color: white;
  font-size: 20px;
  
 }
