@@ -1,1 +1,6 @@
-.title2
+.container {
+  border: 4px solid #777;
+  height: 70vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
