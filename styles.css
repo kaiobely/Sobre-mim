@@ -1,5 +1,6 @@
 body {
-background-color:
+  background-color: yellow;
+  font-family: arial;
 }
 
 
@@ -9,6 +10,7 @@ background-color:
   color: #E6E6FA;
 }
 .ocs {
-  padding: 40px;
+  padding: 120px;
   background-color: purple;
+  color: white;
 }
