@@ -1,3 +1,9 @@
 .titu {
-  align
+  align-text: center;
+  background-color: #BF40BF;
+  color: #E6E6FA;
+}
+.ocs {
+  padding: 40px;
+  background-color: purple;
 }
